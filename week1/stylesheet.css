@@ -1,0 +1,26 @@
+
+ul {
+    padding: 3vh 2vw;
+    margin-bottom: 5vh;
+}
+
+li {
+    padding: 1vh;
+    margin-left: 2.5vw;
+    color: purple;
+    font-size: 110%;
+    list-style-type: circle;
+}
+
+h2 {
+    font-family: Papyrus, fantasy;
+    color: rgb(30, 68, 49);
+    margin-bottom: 1vh;
+}
+
+img {
+    width: 80%;
+    margin-top: 2vh;
+    height: 50vh;
+    border: 3px solid green;
+}
